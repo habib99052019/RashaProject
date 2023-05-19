@@ -1365,7 +1365,7 @@
 	}
   
 	.theme__container {
-	  background-size: cover;
+	  background-position: -820px -162px;
 	}
   
 	.header__logo img {
@@ -1648,7 +1648,8 @@
 	}
   
 	.theme__container {
-	  background-size: cover;
+	  height: 600px;
+	  background-position: -1174px -191px;
 	}
   
 	header {
