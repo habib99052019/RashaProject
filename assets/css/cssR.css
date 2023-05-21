@@ -69,7 +69,7 @@
 	height: 3px;
   }
   .dest-text::after {
-	background-color: #1bbc9b;
+	
   }
   .beaches-text::after {
 	background-color: #14b9d5;
@@ -89,7 +89,7 @@
 	width: 100%;
 	height: 870px;
 	position: relative;
-	background-image: url(https://leloc90.github.io/loveTravel/assets/images/parallax-2.jpg);
+	background-image: url(https://heart-of-carthage-dubai.com/backend/uploads/1684683606235image1.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -274,8 +274,10 @@
   }
   
   .holiday__title {
-	font-size: 50px;
+	font-size: 30px;
 	margin-bottom: 20px;
+	color:gold;
+
   }
   
   .holiday__text {
@@ -1363,11 +1365,11 @@
 	.hide-on-tablet {
 	  display: none;
 	}
-  
+/*   
 	.theme__container {
 	  background-position: -820px -162px;
 	}
-  
+   */
 	.header__logo img {
 	  width: 72px;
 	}
@@ -1647,10 +1649,10 @@
 	  font-size: 32px;
 	}
   
-	.theme__container {
+	/* .theme__container {
 	  height: 600px;
 	  background-position: -1174px -191px;
-	}
+	} */
   
 	header {
 	  height: 74px;
@@ -1674,8 +1676,9 @@
 	}
   
 	.holiday__title {
-	  font-size: 36px;
+	  font-size: 25px;
 	  margin-bottom: 14px;
+	  color: gold;
 	}
   
 	.holiday__text {
