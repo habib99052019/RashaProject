@@ -293,7 +293,7 @@
 	margin-right: auto;
 	padding: 14px 24px;
 	border-radius: 30px;
-	margin-bottom: 60px;
+	margin-bottom: 30px;
   }
   
   .holiday__search-btn {
@@ -1693,7 +1693,7 @@
 	  width: 100%;
 	  padding: 14px 20px;
 	  margin-bottom: 18px;
-	  font-size: 14px;
+	  font-size: 10px;
 	}
   
 	.holiday__search-btn {
