@@ -71,9 +71,9 @@
   .dest-text::after {
 	
   }
-  .beaches-text::after {
+  /* .beaches-text::after {
 	background-color: #14b9d5;
-  }
+  } */
   .holiday-text::after {
 	background-color: #e66874;
   }
@@ -832,17 +832,17 @@
   
   .beaches__img-1 {
 	background: no-repeat center / cover
-	  url(https://leloc90.github.io/loveTravel/assets/images/parallax-4.jpg);
+	  url(https://azizidevelopments.com/assets/images/properties/beach-oasis/1665579700748337076.jpg);
   }
   
   .beaches__img-2 {
 	background: no-repeat center / cover
-	  url(https://leloc90.github.io/loveTravel/assets/images/parallax-4-1.jpg);
+	  url(https://heart-of-carthage-dubai.com/backend/uploads/16755625067961668403583.jpg);
   }
   
   .beaches__img-3 {
 	background: no-repeat center / cover
-	  url(https://leloc90.github.io/loveTravel/assets/images/package-3.jpg);
+	  url(https://heart-of-carthage-dubai.com/backend/uploads/167556250311316462266821501584749.jpg);
   }
   
   .beaches__wrap-time {
