@@ -77,9 +77,7 @@
   .holiday-text::after {
 	background-color: #e66874;
   }
-  .promotion-text::after {
-	background-color: #1bbc9b;
-  }
+ 
   
   .sub-menu__text {
 	font-size: 25px;
@@ -87,7 +85,7 @@
   
   .theme__container {
 	width: 100%;
-	height: 870px;
+	height: 850px;
 	position: relative;
 	background-image: url(https://heart-of-carthage-dubai.com/backend/uploads/1684683606235image1.png);
 	background-repeat: no-repeat;
@@ -293,7 +291,7 @@
 	margin-right: auto;
 	padding: 14px 24px;
 	border-radius: 30px;
-	margin-bottom: 30px;
+	margin-bottom:30px;
   }
   
   .holiday__search-btn {
@@ -513,32 +511,32 @@
   
   .dest__europe {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/e7/ac/31/e7ac31fe00d29fbba88251c8e87f0f8f.jpg);
+	  url(https://chromeandwhyte.com/wp-content/uploads/2022/08/1-bedroom-apartment-for-Sale-in-Golf-Vita-16.jpg);
   }
   
   .dest__thailandia {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/8b/84/49/8b8449cf9de2e1880cd774be3157960b.jpg);
+	  url(https://www.visitdubai.com/-/media/gathercontent/poi/r/raffles-spa/fallback-image/raffles-spa-02.jpg);
   }
   
   .dest__asia {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/94/b3/d2/94b3d2d4aaeb950c498c26f19917393e.jpg);
+	  url(https://bonjourdubai.fr/wp-content/uploads/2020/04/aquarium-centre-commercial-dubai.jpg);
   }
   
   .dest__italy {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/ad/b2/ba/adb2babdef50452e60ef77d5e3cbbba6.jpg);
+	  url(https://dubai-property.investments/fr/uploads/images/2022-08/ex1113.jpg);
   }
   
   .dest__netherlands {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/22/e0/25/22e025a2be1481376455d424593041db.jpg);
+	  url(https://azizidevelopments.com/assets/images/properties/meydan-one/riviera-phase-3/holder.jpg);
   }
   
   .dest__usa {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/fc/52/da/fc52da4969cc8d0c02eadaecdb8a7f8d.jpg);
+	  url(https://www.golfandmore.com/wp-content/uploads/2022/09/five-550x324.png);
   }
   
   .dest__item img {
@@ -944,12 +942,12 @@
   
   .discover__img-1 {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/d6/62/c1/d662c1c1725a7d182c1712d9f1ee106c.jpg);
+	  url(https://thumbs.dreamstime.com/b/marina-de-duba%C3%AF-51444879.jpg);
   }
   
   .discover__img-2 {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/ac/e5/ed/ace5ed785beb820ccbf5f202bf5bf3f7.jpg);
+	  url(https://cdn.generationvoyage.fr/2021/10/dubai-nuit.jpg);
   }
   
   .discover__item {
@@ -965,6 +963,7 @@
   .discover__item p {
 	font-size: 13px;
 	color: #fff;
+
   }
   
   .discover__item h4 {
@@ -979,6 +978,7 @@
 	background-color: #fff;
 	border-radius: 30px;
 	font-size: 14px;
+	margin-bottom: 20px;
   }
   
   .discover__btn-1 {
@@ -1020,17 +1020,17 @@
   
   .--item-img-1 {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/47/e2/8c/47e28cb37314c93cdb615ff64bd2c0e5.jpg);
+	  url(https://dubai-property.investments/fr/uploads/images/2023-05/in912.jpg);
   }
   
   .--item-img-2 {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/4a/0b/ea/4a0bea20dae8f4246f46d4e46cdf547b.jpg);
+	  url(https://dubai-property.investments/fr/uploads/images/2023-05/in66.jpg);
   }
   
   .--item-img-3 {
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/88/48/78/884878043ee17464c8972e66effcc716.jpg);
+	  url(https://dubai-property.investments/fr/uploads/images/2023-05/in1013.jpg);
   }
   
   .promotion__item-sticker-1,
@@ -1153,7 +1153,7 @@
   footer {
 	margin-top: 60px;
 	background: no-repeat center / cover
-	  url(https://i.pinimg.com/564x/3d/3a/3d/3d3a3d91c6661b52356b8957de137b3e.jpg);
+	  url(https://geo.img.pmdstatic.net/fit/~1~geo~2022~06~22~704a5ea1-7c56-4e3f-b8e0-5556aab501d1.jpeg/1200x630/cr/wqkgb3duZ2FyZGVuIC8gR0VP/photos-les-10-attractions-incontournables-de-dubai.jpg);
 	width: 100%;
 	padding-top: 38%;
 	position: relative;
@@ -1364,12 +1364,11 @@
   @media (min-width: 740px) and (max-width: 1023px) {
 	.hide-on-tablet {
 	  display: none;
-	}
-/*   
+	}   
 	.theme__container {
-	  background-position: -820px -162px;
+	  height:  900px;
 	}
-   */
+
 	.header__logo img {
 	  width: 72px;
 	}
@@ -1399,7 +1398,7 @@
 	.holiday__search {
 	  width: 100%;
 	  padding: 18px 24px;
-	  margin-bottom: 30px;
+	  margin-bottom: 10px;
 	  font-size: 14px;
 	}
   
@@ -1650,11 +1649,9 @@
 	  font-size: 32px;
 	}
   
-	/* .theme__container {
-	  height: 600px;
-	  background-position: -1174px -191px;
-	} */
-  
+	.theme__container {
+		height:  900px;
+	  }
 	header {
 	  height: 74px;
 	}
@@ -1677,7 +1674,7 @@
 	}
   
 	.holiday__title {
-	  font-size: 25px;
+	  font-size: 25px !important;
 	  margin-bottom: 14px;
 	  color: gold;
 	  font-family: font-italic;
@@ -1692,7 +1689,7 @@
 	.holiday__search {
 	  width: 100%;
 	  padding: 14px 20px;
-	  margin-bottom: 18px;
+	  margin-bottom: 10px;
 	  font-size: 10px;
 	}
   
@@ -1746,7 +1743,7 @@
 	}
   
 	.next-holiday__btn {
-	  padding: 6px 26px;
+	  padding: 20px;
 	  font-size: 14px;
 	}
   
